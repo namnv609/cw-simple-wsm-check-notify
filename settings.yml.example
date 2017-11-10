@@ -1,0 +1,10 @@
+chatwork:
+  api_key: <ChatWork API Key>
+  ignore_rooms:
+    # - <Room ID>
+    # - <Room ID>
+    # - ...
+  ignore_user_ids:
+    # - <User ID>
+    # - <User ID>
+    # - ...
